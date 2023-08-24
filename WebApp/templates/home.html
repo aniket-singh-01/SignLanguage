@@ -1,0 +1,39 @@
+{% extends 'layout.html' %}
+
+{% block title %} 
+
+{% endblock %}
+
+{% block body %}
+<br><br>
+<center>
+<img src="static/logo.jpg" class="logo"></center>
+<font color = "white">
+<div class="main-heading">
+HandLingo
+</div>
+
+<p>
+    <div class="intro">
+      Explore the World of HandLingo:Embrace a World of Silent Conversations 
+    </div>
+    
+    <div class="vision">
+    <b>Unlock the potential of sign language recognition ,User-Friendly Interface,Fast and Accurate Gesture Interpretation,Start Communicating Effortlessly</b>
+    <br>
+  
+      </div>
+      
+   
+      
+    
+</p>
+
+<br><br>
+<div class="button-container">
+<form action="sign_classifier" method="post">
+    <button class = "button">Launch Sign Detection</button>
+</form>
+</div>
+</font>
+{% endblock %}

@@ -1,0 +1,44 @@
+item {
+	name: 'Ok'
+	id: 1
+}
+item {
+	name: 'Please'
+	id: 2
+}
+item {
+	name: 'Home'
+	id: 3
+}
+item {
+	name: 'Single'
+	id: 4
+}
+item {
+	name: 'Call'
+	id: 5
+}
+item {
+	name: 'Correct'
+	id: 6
+}
+item {
+	name: 'Hello'
+	id: 7
+}
+item {
+	name: 'Yes'
+	id: 8
+}
+item {
+	name: 'No'
+	id: 9
+}
+item {
+	name: 'Thank You'
+	id: 10
+}
+item {
+	name: 'I Love You'
+	id: 11
+}

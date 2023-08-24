@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>hello.dcb0f242-344b-11ee-947f-66f7047a9ad5.jpg</filename>
+	<path>/Users/aniketsingh/Desktop/new_images/collectedimages/hello.dcb0f242-344b-11ee-947f-66f7047a9ad5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hello</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>266</xmin>
+			<ymin>228</ymin>
+			<xmax>621</xmax>
+			<ymax>615</ymax>
+		</bndbox>
+	</object>
+</annotation>

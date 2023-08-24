@@ -1,0 +1,17 @@
+{% extends "layout.html" %}
+
+{% block title %} 
+Recognizing . . .
+{% endblock %}
+
+{% block body %}
+<br><br>
+<center>
+    <img src="{{ url_for('static', filename='logo.jpg') }}" class="logo">
+<br>
+<h3><center>Please hold on for a moment as we prepare to launch the live video feed</center></h3>
+<br>
+<center>
+<img src = "{{url_for('video_feed')}}" width="640" height="480" class="videofeed">
+</center>
+{% endblock %}
