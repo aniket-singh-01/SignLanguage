@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>call.51c98972-344c-11ee-947f-66f7047a9ad5.jpg</filename>
+	<path>/Users/aniketsingh/Desktop/new_images/collectedimages/call.51c98972-344c-11ee-947f-66f7047a9ad5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Call</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>257</xmin>
+			<ymin>221</ymin>
+			<xmax>511</xmax>
+			<ymax>503</ymax>
+		</bndbox>
+	</object>
+</annotation>

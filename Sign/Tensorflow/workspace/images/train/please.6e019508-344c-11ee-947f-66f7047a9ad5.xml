@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>please.6e019508-344c-11ee-947f-66f7047a9ad5.jpg</filename>
+	<path>/Users/aniketsingh/Desktop/new_images/collectedimages/please.6e019508-344c-11ee-947f-66f7047a9ad5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Please</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>474</xmin>
+			<ymin>471</ymin>
+			<xmax>773</xmax>
+			<ymax>720</ymax>
+		</bndbox>
+	</object>
+</annotation>
