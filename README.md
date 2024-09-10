@@ -19,6 +19,8 @@
 
 Sign Language Recognizer is a machine learning-based application designed to interpret sign language gestures and translate them into text or speech. The application leverages computer vision and deep learning techniques to enable communication between deaf individuals and others. It can be deployed as a web application or integrated into other apps via an API.
 
+[Download the complete project here](https://drive.google.com/drive/folders/1s9g8vJnp20Zuj18soJRqtv5uIe7baIPQ?usp=share_link)]
+
 ## Features
 
 - Real-time sign language gesture recognition
