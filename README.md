@@ -1,6 +1,6 @@
 # Sign Language Recognizer
 
-![Sign Language Recognizer](images/logo.png)
+![Sign Language Recognizer]
 
 ## Table of Contents
 
