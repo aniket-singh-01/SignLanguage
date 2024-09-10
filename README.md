@@ -8,9 +8,6 @@
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Model Training](#model-training)
-- [API Deployment](#api-deployment)
-- [Dataset](#dataset)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
@@ -58,4 +55,17 @@ To run the Sign Language Recognizer locally, follow these steps:
 ## Usage
 
 Once the application is running, open your browser and navigate to `http://localhost:5000`. The web interface will allow you to upload videos or use your webcam for real-time sign language recognition.
+
+
+## Contributing
+
+Contributions are welcome! Please fork the repository and submit a pull request for any improvements or bug fixes.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For any questions or suggestions, feel free to open an issue or contact me directly at dev.swiftnook@gmail.com
 
