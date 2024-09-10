@@ -19,7 +19,7 @@
 
 Sign Language Recognizer is a machine learning-based application designed to interpret sign language gestures and translate them into text or speech. The application leverages computer vision and deep learning techniques to enable communication between deaf individuals and others. It can be deployed as a web application or integrated into other apps via an API.
 
-[Download the complete project here](https://drive.google.com/drive/folders/1s9g8vJnp20Zuj18soJRqtv5uIe7baIPQ?usp=share_link)]
+[Download the complete project here](https://drive.google.com/drive/folders/1s9g8vJnp20Zuj18soJRqtv5uIe7baIPQ?usp=share_link)
 
 ## Features
 
@@ -37,8 +37,8 @@ To run the Sign Language Recognizer locally, follow these steps:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/sign-language-recognizer.git
-    cd sign-language-recognizer
+    [git clone https://github.com/y/sign-language-recognizer.git](https://github.com/aniket-singh-01/SignLanguage.git)
+    cd SignLanguage
     ```
 
 2. **Set up a Python virtual environment:**
@@ -48,29 +48,14 @@ To run the Sign Language Recognizer locally, follow these steps:
     source funEnv/bin/activate
     ```
 
-3. **Install the required dependencies:**
+3. **Run the application:**
 
     ```bash
-    pip install -r requirements.txt
-    ```
-
-4. **Download and prepare the dataset:**
-
-   - Ensure the dataset is placed in the `data` directory or specify a path in the configuration file.
-
-5. **Run the application:**
-
-    ```bash
-    python app.py
+    cd Sign/WebApp
+    flask run
     ```
 
 ## Usage
 
 Once the application is running, open your browser and navigate to `http://localhost:5000`. The web interface will allow you to upload videos or use your webcam for real-time sign language recognition.
 
-### Command Line Usage
-
-To recognize gestures from a video file:
-
-```bash
-python recognize.py --video /path/to/video/file
