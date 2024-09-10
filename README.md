@@ -1,7 +1,5 @@
 # Sign Language Recognizer
 
-![Sign Language Recognizer]
-
 ## Table of Contents
 
 - [Introduction](#introduction)
